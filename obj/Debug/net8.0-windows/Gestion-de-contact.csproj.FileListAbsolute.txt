@@ -16,3 +16,4 @@ C:\Users\Amine\OneDrive\Bureau\Projet C#\Gestion-de-contact\obj\Debug\net8.0-win
 C:\Users\Amine\OneDrive\Bureau\Projet C#\Gestion-de-contact\obj\Debug\net8.0-windows\Gestion_de_contact.Contacts2.resources
 C:\Users\Amine\OneDrive\Bureau\Projet C#\Gestion-de-contact\obj\Debug\net8.0-windows\Gestion_de_contact.MyContacts.resources
 C:\Users\Amine\OneDrive\Bureau\Projet C#\Gestion-de-contact\obj\Debug\net8.0-windows\Gestion_de_contact.AjoutPage.resources
+C:\Users\Amine\OneDrive\Bureau\Projet C#\Gestion-de-contact\obj\Debug\net8.0-windows\Gestion-de-contact.sourcelink.json

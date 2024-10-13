@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Diagnostics;
+using System.Diagnostics.Eventing.Reader;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -24,6 +25,7 @@ namespace Gestion_de_contact
         private void loadGroup()
         {
             this.liste_grp.Items.Clear();
+            this.liste_grp.Items.Add("kifech");
             this.liste_grp.Items.AddRange(Global.listGroups.ToArray());
             if (this.liste_grp.Items.Count > 0)
             {
@@ -40,7 +42,35 @@ namespace Gestion_de_contact
             string mail = this.tb_aj_mail.Text;
             string tel = this.tb_aj_tel.Text;
             string ville = this.tb_aj_ville.Text;
-            Group group = (Group)this.liste_grp.SelectedItem;
+
+            Groupe groupSelected = (Groupe)this.liste_grp.SelectedItem;
+            Image image = this.pct_ajout.Image;
+            if (checkInput(firstName,lastName,adresse, mail, tel, ville))
+            {
+                Contact contact = new Contact(firstName, lastName,mail, tel,ville, image, adresse);
+                groupSelected.ListContacts.Add(contact);
+                this.DialogResult = DialogResult.OK;
+            }
+            else
+            {
+                MessageBox.Show("Veuillez remplir tout les champs", "MyContacts", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+
+        }
+        private bool checkInput(string firstname, string lastname, string adresse, string mail, string tel, string ville)
+        {
+            return !string.IsNullOrEmpty(firstname)
+                    && string.IsNullOrEmpty(lastname)
+                    && string.IsNullOrEmpty(adresse)
+                    && string.IsNullOrEmpty(mail)
+                    && string.IsNullOrEmpty(tel)
+                    && string.IsNullOrEmpty(ville);
+
+        }
+
+        private void liste_grp_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

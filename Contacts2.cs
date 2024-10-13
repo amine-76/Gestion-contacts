@@ -38,7 +38,11 @@ namespace Gestion_de_contact
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            AjoutPage pageAjout = new AjoutPage();
+            DialogResult dr = pageAjout.ShowDialog();
+            if (dr == DialogResult.OK) {
+                
+            }
         }
 
         private void My_list_contacts_SelectedIndexChanged(object sender, EventArgs e)

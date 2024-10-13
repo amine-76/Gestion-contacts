@@ -24,10 +24,7 @@ namespace Gestion_de_contact.Script
         public Image Image { get => image ; set => image = value; } 
         public string Email { get => email; set => email = value; }
 
-        private Contact()
-        {
-
-        }
+        
         public Contact(string name, string lastname, string email, string phone, string city, Image image, string adress)
         {
             this.name = name;

@@ -97,6 +97,7 @@
             liste_grp.Name = "liste_grp";
             liste_grp.Size = new Size(191, 28);
             liste_grp.TabIndex = 12;
+            //liste_grp.SelectedIndexChanged += liste_grp_SelectedIndexChanged;
             // 
             // lb_aj_ville
             // 

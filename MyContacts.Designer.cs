@@ -36,11 +36,11 @@
             // 
             label_hello.AutoSize = true;
             label_hello.Font = new Font("Segoe UI", 20F);
-            label_hello.Location = new Point(284, 91);
+            label_hello.Location = new Point(49, 80);
             label_hello.Name = "label_hello";
-            label_hello.Size = new Size(198, 46);
+            label_hello.Size = new Size(858, 46);
             label_hello.TabIndex = 0;
-            label_hello.Text = "Hello World";
+            label_hello.Text = "Romane <3   >>> tout les prénoms de filles aux monde ";
             label_hello.Click += label_hello_Click;
             // 
             // btn_start
@@ -53,15 +53,15 @@
             btn_start.UseVisualStyleBackColor = true;
             btn_start.Click += Button1_Click;
             // 
-            // Contacts
+            // MyContacts
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.MenuHighlight;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(1005, 450);
             Controls.Add(btn_start);
             Controls.Add(label_hello);
-            Name = "Contacts";
+            Name = "MyContacts";
             Text = "Contacts";
             ResumeLayout(false);
             PerformLayout();
