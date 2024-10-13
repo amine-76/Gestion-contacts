@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Amine\\OneDrive\\Bureau\\Projet C#\\Gestion-de-contact\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B2E8D2-E2EB-4263-84C4-84F8EA0462C4}|Gestion-de-contact.csproj|c:\\users\\amine\\onedrive\\bureau\\projet c#\\gestion-de-contact\\ajoutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8B2E8D2-E2EB-4263-84C4-84F8EA0462C4}|Gestion-de-contact.csproj|solutionrelative:ajoutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B2E8D2-E2EB-4263-84C4-84F8EA0462C4}|Gestion-de-contact.csproj|c:\\users\\amine\\onedrive\\bureau\\projet c#\\gestion-de-contact\\script\\groupe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8B2E8D2-E2EB-4263-84C4-84F8EA0462C4}|Gestion-de-contact.csproj|solutionrelative:script\\groupe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B2E8D2-E2EB-4263-84C4-84F8EA0462C4}|Gestion-de-contact.csproj|c:\\users\\amine\\onedrive\\bureau\\projet c#\\gestion-de-contact\\mycontacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8B2E8D2-E2EB-4263-84C4-84F8EA0462C4}|Gestion-de-contact.csproj|solutionrelative:mycontacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B2E8D2-E2EB-4263-84C4-84F8EA0462C4}|Gestion-de-contact.csproj|c:\\users\\amine\\onedrive\\bureau\\projet c#\\gestion-de-contact\\contacts2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8B2E8D2-E2EB-4263-84C4-84F8EA0462C4}|Gestion-de-contact.csproj|solutionrelative:contacts2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B2E8D2-E2EB-4263-84C4-84F8EA0462C4}|Gestion-de-contact.csproj|c:\\users\\amine\\onedrive\\bureau\\projet c#\\gestion-de-contact\\contacts2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8B2E8D2-E2EB-4263-84C4-84F8EA0462C4}|Gestion-de-contact.csproj|solutionrelative:contacts2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B2E8D2-E2EB-4263-84C4-84F8EA0462C4}|Gestion-de-contact.csproj|C:\\Users\\Amine\\OneDrive\\Bureau\\Projet C#\\Gestion-de-contact\\ajoutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8B2E8D2-E2EB-4263-84C4-84F8EA0462C4}|Gestion-de-contact.csproj|solutionrelative:ajoutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B2E8D2-E2EB-4263-84C4-84F8EA0462C4}|Gestion-de-contact.csproj|c:\\users\\amine\\onedrive\\bureau\\projet c#\\gestion-de-contact\\mycontacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8B2E8D2-E2EB-4263-84C4-84F8EA0462C4}|Gestion-de-contact.csproj|solutionrelative:mycontacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AjoutPage.cs",
+              "DocumentMoniker": "C:\\Users\\Amine\\OneDrive\\Bureau\\Projet C#\\Gestion-de-contact\\AjoutPage.cs",
+              "RelativeDocumentMoniker": "AjoutPage.cs",
+              "ToolTip": "C:\\Users\\Amine\\OneDrive\\Bureau\\Projet C#\\Gestion-de-contact\\AjoutPage.cs",
+              "RelativeToolTip": "AjoutPage.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwBsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:36:27.002Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Groupe.cs",
+              "DocumentMoniker": "C:\\Users\\Amine\\OneDrive\\Bureau\\Projet C#\\Gestion-de-contact\\Script\\Groupe.cs",
+              "RelativeDocumentMoniker": "Script\\Groupe.cs",
+              "ToolTip": "C:\\Users\\Amine\\OneDrive\\Bureau\\Projet C#\\Gestion-de-contact\\Script\\Groupe.cs",
+              "RelativeToolTip": "Script\\Groupe.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T17:57:08.53Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AjoutPage.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\Amine\\OneDrive\\Bureau\\Projet C#\\Gestion-de-contact\\AjoutPage.cs",
+              "RelativeDocumentMoniker": "AjoutPage.cs",
+              "ToolTip": "C:\\Users\\Amine\\OneDrive\\Bureau\\Projet C#\\Gestion-de-contact\\AjoutPage.cs [Conception]",
+              "RelativeToolTip": "AjoutPage.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T16:54:01.909Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyContacts.cs",
+              "DocumentMoniker": "C:\\Users\\Amine\\OneDrive\\Bureau\\Projet C#\\Gestion-de-contact\\MyContacts.cs",
+              "RelativeDocumentMoniker": "MyContacts.cs",
+              "ToolTip": "C:\\Users\\Amine\\OneDrive\\Bureau\\Projet C#\\Gestion-de-contact\\MyContacts.cs",
+              "RelativeToolTip": "MyContacts.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwBsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T12:21:26.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contacts2.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\Amine\\OneDrive\\Bureau\\Projet C#\\Gestion-de-contact\\Contacts2.cs",
+              "RelativeDocumentMoniker": "Contacts2.cs",
+              "ToolTip": "C:\\Users\\Amine\\OneDrive\\Bureau\\Projet C#\\Gestion-de-contact\\Contacts2.cs [Conception]",
+              "RelativeToolTip": "Contacts2.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T21:08:50.317Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contacts2.cs",
+              "DocumentMoniker": "C:\\Users\\Amine\\OneDrive\\Bureau\\Projet C#\\Gestion-de-contact\\Contacts2.cs",
+              "RelativeDocumentMoniker": "Contacts2.cs",
+              "ToolTip": "C:\\Users\\Amine\\OneDrive\\Bureau\\Projet C#\\Gestion-de-contact\\Contacts2.cs",
+              "RelativeToolTip": "Contacts2.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T22:04:34.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyContacts.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\Amine\\OneDrive\\Bureau\\Projet C#\\Gestion-de-contact\\MyContacts.cs",
+              "RelativeDocumentMoniker": "MyContacts.cs",
+              "ToolTip": "C:\\Users\\Amine\\OneDrive\\Bureau\\Projet C#\\Gestion-de-contact\\MyContacts.cs [Conception]",
+              "RelativeToolTip": "MyContacts.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T12:21:22.374Z",
+              "EditorCaption": " [Conception]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
