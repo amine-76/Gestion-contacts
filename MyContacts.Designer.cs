@@ -36,16 +36,16 @@
             // 
             label_hello.AutoSize = true;
             label_hello.Font = new Font("Segoe UI", 20F);
-            label_hello.Location = new Point(49, 80);
+            label_hello.Location = new Point(335, 96);
             label_hello.Name = "label_hello";
-            label_hello.Size = new Size(858, 46);
+            label_hello.Size = new Size(330, 46);
             label_hello.TabIndex = 0;
-            label_hello.Text = "Romane <3   >>> tout les prénoms de filles aux monde ";
+            label_hello.Text = "Welcome to my app ";
             label_hello.Click += label_hello_Click;
             // 
             // btn_start
             // 
-            btn_start.Location = new Point(280, 218);
+            btn_start.Location = new Point(393, 222);
             btn_start.Name = "btn_start";
             btn_start.Size = new Size(202, 50);
             btn_start.TabIndex = 1;
